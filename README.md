@@ -4,4 +4,5 @@
 * Estatística calcula média, mediana e quartil
 * Primo retorna os números primos entre 2 e 100
 * Oficina - exercício sobre conjuntos
+* add novos exercícios/oficinas 30/10/21
 
